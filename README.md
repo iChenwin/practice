@@ -1,5 +1,5 @@
 #### This is my practice repository
-1. Set SSH key.
+1. Set SSH key, backup your old ssh key(if existed).
 ```bash
 $cd ~/.ssh
 $ssh-keygen -t rsa -C "ichenwin@gmail.com"
