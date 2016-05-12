@@ -44,7 +44,7 @@ $git push origin NewBranch
 ```bash
 $git branch -d NewBranch
 ```
-4. <font color:"red">Delete branch on Github</font>
+4. <font color="red">Delete branch on Github</font>
 ```bash
 $git push origin --delete NewBranch
 ```
