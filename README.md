@@ -29,7 +29,7 @@ Done!
 #### Manage branch
 1. Create local branch
 ```bash
-$git checkout -b newbranch
+$git checkout -b NewBranch
 ```
 equals to
 ```bash
