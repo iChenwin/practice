@@ -36,7 +36,7 @@ equals to
 $git branch NewBranch
 $git checkout NewBranch
 ```
-2. Sync 'NewBranch' to Github
+2. Create branch on Github
 ```bash
 $git push origin NewBranch
 ```
@@ -44,7 +44,7 @@ $git push origin NewBranch
 ```bash
 $git branch -d NewBranch
 ```
-4. <font color="red">Delete branch on Github</font>
+4. **Delete branch on Github**
 ```bash
 $git push origin --delete NewBranch
 ```
