@@ -20,7 +20,8 @@ $git init
 $touch README.md
 $git add README.md
 $git commit -m "Init with README.md"
-$git remote add origin git@github.com:iChenwin/practice
+$git remote add origin git@github.com:iChenwin/practice.git
 $git push -u origin master
 ```
+*Notice: the URL is "git@github.com:iChenwin/practice.git" not "git@github.com/iChenwin/practice.git"*
 Done!
