@@ -1,4 +1,4 @@
-#### This is my practice repository
+#### Create remote and local repository
 1. Set SSH key, backup your old ssh key(if existed).
 ```bash
 $cd ~/.ssh
@@ -26,3 +26,25 @@ $git push -u origin master
 **Notice:** the URL is "git@github.com:iChenwin/practice.git" not "git@github.com/iChenwin/practice.git" !!
 
 Done!
+#### Manage branch
+1. Create local branch
+```bash
+$git checkout -b newbranch
+```
+equals to
+```bash
+$git branch NewBranch
+$git checkout NewBranch
+```
+2. Sync 'NewBranch' to Github
+```bash
+$git push origin NewBranch
+```
+3. Delete local branch
+```bash
+$git branch -d NewBranch
+```
+4. **Delete branch on Github**
+```bash
+$git push origin :NewBranch
+```
