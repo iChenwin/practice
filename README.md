@@ -52,7 +52,7 @@ $git push origin :NewBranch
 ```bash
 $git checkout master
 ```
-6. Merge NewBranch to master
+6. Merge NewBranch to master.
 ```bash
-git merge
+git merge NewBnch
 ```
