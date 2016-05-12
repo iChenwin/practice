@@ -52,3 +52,11 @@ or
 ```bash
 $git push origin :NewBranch
 ```
+5. Switch to master branch
+```bash
+$git checkout master
+```
+6. Merge NewBranch to master
+```bash
+git merge
+```
