@@ -23,7 +23,7 @@ $git commit -m "Init with README.md"
 $git remote add origin git@github.com:iChenwin/practice.git
 $git push -u origin master
 ```
-**Notice:** the URL is "git@github.com:iChenwin/practice.git" not "git@github.com/iChenwin/practice.git" !!
+**Notice:** the URL is `"git@github.com:iChenwin/practice.git"` not `"git@github.com/iChenwin/practice.git"` !!
 
 Done!
 #### Manage branch
