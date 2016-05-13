@@ -7,7 +7,7 @@
 `$ssh -T git@github.com`
 4. Create repository on Github.
 5. Clone/create repository at local PC.  
-`$git clone git@github.com/iChenwin/practice`
+`$git clone git@github.com/iChenwin/practice`  
 or
 ```
 $git init
